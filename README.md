@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Project Title: Anime Fusion
+Welcome to Anime Fusion
 
 
-Tagline: "Unite Your Style with Anime Attire"
+Tagline: "Productivity and Perfection at your Doorstep"
 
 
 Description:
